@@ -1,4 +1,4 @@
-# Hr Analytics
+# HR Analytics
 ![](hr_analytics.png)
 
 ## Introduction
